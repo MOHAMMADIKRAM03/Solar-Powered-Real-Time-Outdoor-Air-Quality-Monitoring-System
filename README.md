@@ -256,7 +256,7 @@ IoT Environmental Networks
 
 # 🧑‍💻 Author
 
-**Vidhyadhara Rao Kotagiri**
+**MOHAMMAD IKRAM**
 B.Tech IoT — KL University
 
 ---
